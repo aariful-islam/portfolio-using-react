@@ -1,0 +1,38 @@
+[
+    {
+      
+      "name": "Manufacturer website",
+      "id":1,
+      "img" : "images/1.PNG",
+      "description":"work with React.js •Firebase •Node.js •Express.js •Tailwind CSS",
+      "info": "The main focus of this project is work with backend database and admin panelWe can add, delete, update data.Work with Firebase login authentication system.The website also has private routes which require login of google authentication.Some of the APIs are secured with JWT.",
+      
+      "live":"https://manufacturer-website-9bd63.web.app/home",
+      "client":"https://github.com/aariful-islam/manufacturer-website-client-side",
+      "server":"https://github.com/aariful-islam/manufacturer-website-server-side"
+
+
+    },
+    {
+        "name": "Warehouse Management",
+        "img" : "images/2.PNG",
+        "description":"Work with •React.js •Firebase •Bootstrap",
+        "info":"It is a CRUD operation-based website.Work with Firebase login authentication system.The website also has private routes which require login of google authentication.",
+       
+        "id":2,
+        "live":"https://laptop-warehouse-4dc3b.web.app/",
+        "client":"https://github.com/aariful-islam/warehouse-management-client-side",
+        "server":"https://github.com/aariful-islam/warehouse-management-server-side"
+    },
+    {
+        "name": "Independent-service-provider",
+        "img" : "images/3.PNG",
+        "description":"Work with •React.js •Firebase •Bootstrap",
+        "info":"The main focus of this project is firebase authenticationThere have some services of a gym trainer user can login/register or logout with this project.user can checkout service also",
+        "id":3,
+        "live":"https://workout-with-arif.web.app/",
+        "client":"https://github.com/aariful-islam/independent-service-provider"
+
+    }
+    
+  ]
